@@ -1,4 +1,5 @@
 # Crud-Application-by-python
+* the date of creation is 25/5/2021
 * Crud application made by python language specially by Tkinter library
 * This application made to facilitate the enties of the quality items to measue the qualitey rates for all my organization stores
 * this application is connected with SQL LITE AND all data stored inside SQLLITE data base 
