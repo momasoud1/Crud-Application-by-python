@@ -9,4 +9,4 @@
 * SQLLITE library
 
 # Licence 
-for secyrity issues to save my organization data , i cannot show the codes of the applications in public
+for secyrity issues to save my organization data , i cannot show the codes of the applications in public but you can see the final view of the application from the file that uploaded in this repository.
